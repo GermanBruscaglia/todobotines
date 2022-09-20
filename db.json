@@ -1,0 +1,604 @@
+{
+  "featured": [
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped1.jpg",
+      "marca": "Adidas",
+      "modelo": "Césped",
+      "precio": 24900,
+      "id": 1
+    },
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped2.jpg",
+      "marca": "Adidas",
+      "modelo": "Césped",
+      "precio": 25000,
+      "id": 2
+    },
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped3.jpg",
+      "marca": "Adidas",
+      "modelo": "Césped",
+      "precio": 22500,
+      "id": 3
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal1.jpg",
+      "marca": "Umbro",
+      "modelo": "Futsal",
+      "precio": 24900,
+      "id": 4
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal2.jpg",
+      "marca": "Adidas",
+      "modelo": "Futsal",
+      "precio": 25000,
+      "id": 5
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal3.jpg",
+      "marca": "Nike",
+      "modelo": "Futsal",
+      "precio": 22500,
+      "id": 6
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico1.jpg",
+      "marca": "Adidas",
+      "modelo": "Sintético",
+      "precio": 24900,
+      "id": 7
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico2.jpg",
+      "marca": "Nike",
+      "modelo": "Sintético",
+      "precio": 25000,
+      "id": 8
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico3.jpg",
+      "marca": "Puma",
+      "modelo": "Sintético",
+      "precio": 22500,
+      "id": 9
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios10.jpg",
+      "marca": "Nike",
+      "modelo": "Medias largas",
+      "precio": 2200,
+      "id": 10
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios11.jpg",
+      "marca": "Adidas",
+      "modelo": "Short deportivo Argentina" ,
+      "precio": 6800,
+      "id": 11
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios12.jpg",
+      "marca": "Nike",
+      "modelo": "Short deportivo",
+      "precio": 4200,
+      "id": 12
+    }
+  ],
+
+  "grass": [
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped1.jpg",
+      "marca": "Adidas",
+      "modelo": "Césped",
+      "precio": 24900,
+      "id": 1
+    },
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped2.jpg",
+      "marca": "Adidas",
+      "modelo": "Césped",
+      "precio": 25000,
+      "id": 2
+    },
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped3.jpg",
+      "marca": "Adidas",
+      "modelo": "Césped",
+      "precio": 22500,
+      "id": 3
+    },
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped4.jpg",
+      "marca": "Adidas",
+      "modelo": "Césped",
+      "precio": 26000,
+      "id": 4
+    },
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped5.jpg",
+      "marca": "Adidas",
+      "modelo": "Césped",
+      "precio": 20000,
+      "id": 5
+    },
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped6.jpg",
+      "marca": "Adidas",
+      "modelo": "Césped",
+      "precio": 21500,
+      "id": 6
+    },
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped7.jpg",
+      "marca": "Nike",
+      "modelo": "Césped",
+      "precio": 24000,
+      "id": 7
+    },
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped8.jpg",
+      "marca": "Nike",
+      "modelo": "Césped",
+      "precio": 25700,
+      "id": 8
+    },
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped9.jpg",
+      "marca": "Nike",
+      "modelo": "Césped",
+      "precio": 24800,
+      "id": 9
+    },
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped10.jpg",
+      "marca": "Nike",
+      "modelo": "Césped",
+      "precio": 21200,
+      "id": 10
+    },
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped11.jpg",
+      "marca": "Nike",
+      "modelo": "Césped",
+      "precio": 23000,
+      "id": 11
+    },
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped12.jpg",
+      "marca": "Nike",
+      "modelo": "Césped",
+      "precio": 25200,
+      "id": 12
+    },
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped13.jpg",
+      "marca": "Puma",
+      "modelo": "Césped",
+      "precio": 19000,
+      "id": 13
+    },
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped14.jpg",
+      "marca": "Puma",
+      "modelo": "Césped",
+      "precio": 19900,
+      "id": 14
+    },
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped15.jpg",
+      "marca": "Puma",
+      "modelo": "Césped",
+      "precio": 21000,
+      "id": 15
+    },
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped16.jpg",
+      "marca": "Puma",
+      "modelo": "Césped",
+      "precio": 23200,
+      "id": 16
+    },
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped17.jpg",
+      "marca": "Puma",
+      "modelo": "Césped",
+      "precio": 24500,
+      "id": 17
+    },
+    {
+      "imagen": "./images/images-cards/cards-grass/botinCesped18.jpg",
+      "marca": "Puma",
+      "modelo": "Césped",
+      "precio": 22700,
+      "id": 18
+    }
+  ],
+
+  "indoor": [
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal1.jpg",
+      "marca": "Umbro",
+      "modelo": "Futsal",
+      "precio": 24900,
+      "id": 1
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal2.jpg",
+      "marca": "Adidas",
+      "modelo": "Futsal",
+      "precio": 25000,
+      "id": 2
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal3.jpg",
+      "marca": "Nike",
+      "modelo": "Futsal",
+      "precio": 22500,
+      "id": 3
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal4.jpg",
+      "marca": "Adidas",
+      "modelo": "Futsal",
+      "precio": 26000,
+      "id": 4
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal5.jpg",
+      "marca": "Adidas",
+      "modelo": "Futsal",
+      "precio": 20000,
+      "id": 5
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal6.jpg",
+      "marca": "Nike",
+      "modelo": "Futsal",
+      "precio": 21500,
+      "id": 6
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal7.jpg",
+      "marca": "Nike",
+      "modelo": "Futsal",
+      "precio": 24000,
+      "id": 7
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal8.jpg",
+      "marca": "Nike",
+      "modelo": "Futsal",
+      "precio": 25700,
+      "id": 8
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal9.jpg",
+      "marca": "Nike",
+      "modelo": "Futsal",
+      "precio": 24800,
+      "id": 9
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal10.jpg",
+      "marca": "Joma",
+      "modelo": "Futsal",
+      "precio": 21200,
+      "id": 10
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal11.jpg",
+      "marca": "Joma",
+      "modelo": "Futsal",
+      "precio": 23000,
+      "id": 11
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal12.jpg",
+      "marca": "Umbro",
+      "modelo": "Futsal",
+      "precio": 25200,
+      "id": 12
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal13.jpg",
+      "marca": "Umbro",
+      "modelo": "Futsal",
+      "precio": 19000,
+      "id": 13
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal14.jpg",
+      "marca": "Puma",
+      "modelo": "Futsal",
+      "precio": 19900,
+      "id": 14
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal15.jpg",
+      "marca": "Adidas",
+      "modelo": "Futsal",
+      "precio": 21000,
+      "id": 15
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal16.jpg",
+      "marca": "Adidas",
+      "modelo": "Futsal",
+      "precio": 23200,
+      "id": 16
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal17.jpg",
+      "marca": "Adidas",
+      "modelo": "Futsal",
+      "precio": 24500,
+      "id": 17
+    },
+    {
+      "imagen": "./images/images-cards/cards-indoor/botinFutsal18.jpg",
+      "marca": "Nike",
+      "modelo": "Futsal",
+      "precio": 22700,
+      "id": 18
+    }
+  ],
+
+  "synthetic": [
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico1.jpg",
+      "marca": "Adidas",
+      "modelo": "Sintético",
+      "precio": 24900,
+      "id": 1
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico2.jpg",
+      "marca": "Nike",
+      "modelo": "Sintético",
+      "precio": 25000,
+      "id": 2
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico3.jpg",
+      "marca": "Puma",
+      "modelo": "Sintético",
+      "precio": 22500,
+      "id": 3
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico4.jpg",
+      "marca": "Umbro",
+      "modelo": "Sintético",
+      "precio": 26000,
+      "id": 4
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico5.jpg",
+      "marca": "Umbro",
+      "modelo": "Sintético",
+      "precio": 20000,
+      "id": 5
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico6.jpg",
+      "marca": "Adidas",
+      "modelo": "Sintético",
+      "precio": 21500,
+      "id": 6
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico7.jpg",
+      "marca": "Adidas",
+      "modelo": "Sintético",
+      "precio": 24000,
+      "id": 7
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico8.jpg",
+      "marca": "Nike",
+      "modelo": "Sintético",
+      "precio": 25700,
+      "id": 8
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico9.jpg",
+      "marca": "Adidas",
+      "modelo": "Sintético",
+      "precio": 24800,
+      "id": 9
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico10.jpg",
+      "marca": "Nike",
+      "modelo": "Sintético",
+      "precio": 21200,
+      "id": 10
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico11.jpg",
+      "marca": "Nike",
+      "modelo": "Sintético",
+      "precio": 23000,
+      "id": 11
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico12.jpg",
+      "marca": "Nike",
+      "modelo": "Sintético",
+      "precio": 25200,
+      "id": 12
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico13.jpg",
+      "marca": "Puma",
+      "modelo": "Sintético",
+      "precio": 19000,
+      "id": 13
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico14.jpg",
+      "marca": "Puma",
+      "modelo": "Sintético",
+      "precio": 19900,
+      "id": 14
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico15.jpg",
+      "marca": "Puma",
+      "modelo": "Sintético",
+      "precio": 21000,
+      "id": 15
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico16.jpg",
+      "marca": "Puma",
+      "modelo": "Sintético",
+      "precio": 23200,
+      "id": 16
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico17.jpg",
+      "marca": "Umbro",
+      "modelo": "Sintético",
+      "precio": 24500,
+      "id": 17
+    },
+    {
+      "imagen": "./images/images-cards/cards-synthetic/botinSintetico18.jpg",
+      "marca": "Umbro",
+      "modelo": "Sintético",
+      "precio": 22700,
+      "id": 18
+    }
+  ],
+
+  "accesories": [
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios1.jpg",
+      "marca": "Adidas",
+      "modelo": "Pelota Mundial Qatar 2022",
+      "precio": 5900,
+      "id": 1
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios2.jpg",
+      "marca": "Adidas",
+      "modelo": "Pelota Mundial Rusia 2018",
+      "precio": 4000,
+      "id": 2
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios3.jpg",
+      "marca": "Adidas",
+      "modelo": "Pelota Mundial Brasil 2014",
+      "precio": 4500,
+      "id": 3
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios4.jpg",
+      "marca": "Adidas",
+      "modelo": "Pelota Mundial Sudafrica 2010",
+      "precio": 4000,
+      "id": 4
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios5.jpg",
+      "marca": "Adidas",
+      "modelo": "Pelota Mundial Alemania 2006",
+      "precio": 4000,
+      "id": 5
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios6.jpg",
+      "marca": "Adidas",
+      "modelo": "Pelota Mundial Corea/Japon 2002",
+      "precio": 4500,
+      "id": 6
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios7.jpg",
+      "marca": "Nike",
+      "modelo": "Canilleras",
+      "precio": 2400,
+      "id": 7
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios8.jpg",
+      "marca": "Adidas",
+      "modelo": "Medias largas",
+      "precio": 2700,
+      "id": 8
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios9.jpg",
+      "marca": "Nike",
+      "modelo": "Short deportivo",
+      "precio": 4800,
+      "id": 9
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios10.jpg",
+      "marca": "Nike",
+      "modelo": "Medias largas",
+      "precio": 2200,
+      "id": 10
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios11.jpg",
+      "marca": "Adidas",
+      "modelo": "Short deportivo Argentina" ,
+      "precio": 6800,
+      "id": 11
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios12.jpg",
+      "marca": "Nike",
+      "modelo": "Short deportivo",
+      "precio": 4200,
+      "id": 12
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios13.jpg",
+      "marca": "Adidas",
+      "modelo": "Remera",
+      "precio": 9000,
+      "id": 13
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios14.jpg",
+      "marca": "Nike",
+      "modelo": "Remera",
+      "precio": 9900,
+      "id": 14
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios15.jpg",
+      "marca": "Under Armour",
+      "modelo": "Remera",
+      "precio": 10000,
+      "id": 15
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios16.jpg",
+      "marca": "Adidas",
+      "modelo": "Canilleras",
+      "precio": 3200,
+      "id": 16
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios17.jpg",
+      "marca": "Adidas",
+      "modelo": "Guantes de Arquero",
+      "precio": 4500,
+      "id": 17
+    },
+    {
+      "imagen": "./images/images-cards/cards-accesories/accesorios18.jpg",
+      "marca": "Nike",
+      "modelo": "Guantes de Arquero",
+      "precio": 4700,
+      "id": 18
+    }
+  ]
+}

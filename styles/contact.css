@@ -1,0 +1,67 @@
+.contact{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: black;
+    margin: 2rem 0;
+    padding: 1rem 0;
+}
+.contact h2{
+    margin: 0;
+    text-align: center;
+    font-size: 1.3rem;
+}
+.contact-info{
+    color: white;
+
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.contact-info ul{
+    line-height: 1.5rem;
+}
+.contact-info a{
+    color: white;
+    text-decoration: none;
+}
+.form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.formulario{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (min-width: 768px) {
+.contact{
+    flex-direction: row;
+    margin: 2rem 0;
+    padding: 1rem 0;
+}
+.contact-info{
+    width: 50%;
+}
+.contact-info a:hover{
+    color: rgb(150, 150, 150);
+}
+.form{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.formulario{
+    width: 60%;
+}
+}
